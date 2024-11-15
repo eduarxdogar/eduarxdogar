@@ -1,16 +1,43 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Cristian Garzon
 
-<!--
-**eduarxdogar/eduarxdogar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desarrollador de Software | Entusiasta de la Tecnología | Aprendiz de por Vida
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+¡Bienvenido a mi perfil de GitHub! Aquí encontrarás una colección de mis proyectos, desde pequeños experimentos hasta aplicaciones completas. Estoy constantemente aprendiendo y mejorando, así que asegúrate de volver para ver lo que estoy haciendo.
+
+## 🔭 Proyectos Destacados
+
+- **[MyTaskDayApp](https://github.com/eduarxdogar/MyTaskDayApp)**: Aplicación para la gestión de tareas diarias.
+- [ecomerceFront](https://github.com/eduarxdogar/appLoginAuthJwt): login autenticacion de JWT y angualar material 
+- **[ecomerceBack](https://github.com/eduarxdogar/VentaV.0.0/tree/developer)**: back en C# con .Net bases de datos y dependencias con Entity framework y sql server  
+
+## 🌱 Actualmente Estoy Aprendiendo
+- Angular y Desarrollo Frontend
+- Node.js y Desarrollo Backend
+- Integración de Firebase
+- 1 año de experiencia en Java 8 y 11, Spring Boot, Oracle DB y MySQL con XAMPP
+
+## 📫 Contáctame
+
+- **Correo**: cristiangarzon1224@hotmail.com
+- **LinkedIn**:(https://www.linkedin.com/in/cristian-eduardo-garzon-roa-a6008727a/)
+- **WhatsAap**: +57 3132893066
+  
+
+
+## ⚡ Habilidades
+
+- **Lenguajes de Programación**: Java, JavaScript, TypeScript, Python
+- **Frameworks y Librerías**: Angular, React, Node.js
+- **Bases de Datos**: Firebase, MongoDB, SQL
+- **Herramientas y Tecnologías**: Git, Docker, CI/CD
+
+## 🎓 Educación
+
+- **Institución**: Sena 
+- **Carrera**: Tecnico en desarrollo de software 
+
+---
+
+⭐️ **No olvides darle una estrella a mis repositorios si encuentras algo útil!** ⭐️
