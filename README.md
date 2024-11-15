@@ -9,8 +9,10 @@
 ## 🔭 Proyectos Destacados
 
 - **[MyTaskDayApp](https://github.com/eduarxdogar/MyTaskDayApp)**: Aplicación para la gestión de tareas diarias.
-- [ecomerceFront](https://github.com/eduarxdogar/appLoginAuthJwt): login autenticacion de JWT y angualar material 
-- **[ecomerceBack](https://github.com/eduarxdogar/VentaV.0.0/tree/developer)**: back en C# con .Net bases de datos y dependencias con Entity framework y sql server  
+- **[ecomerceFront](https://github.com/eduarxdogar/appLoginAuthJwt): login autenticacion de JWT y angualar material 
+- **[ecomerceBack](https://github.com/eduarxdogar/VentaV.0.0/tree/developer)**: back en C# con .Net bases de datos y dependencias con Entity framework y sql server
+- **[Sistema de reservas Hoteles](https://github.com/eduarxdogar/ReservasApiSystem)**: sistema de reservas para hoteles  
+
 
 ## 🌱 Actualmente Estoy Aprendiendo
 - Angular y Desarrollo Frontend
