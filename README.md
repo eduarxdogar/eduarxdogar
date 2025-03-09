@@ -8,8 +8,8 @@
 
 ## 🔭 Proyectos Destacados
 
-- **[MyTaskDayApp](https://github.com/eduarxdogar/MyTaskDayApp)**: Aplicación para la gestión de tareas diarias.
-- **[ecomerceFront](https://github.com/eduarxdogar/ecomerce): ONLINE https://store-m1p0bc701-cristians-projects-9dedc448.vercel.app/?category_id=4
+- **[Standup Bot para Discord](https://github.com/eduarxdogar/StandupBot/tree/Crisdev)**: Aplicación para la gestión de tareas diarias.
+- **[ecomerceFront](https://github.com/eduarxdogar/ecomerce)**: ONLINE https://store-m1p0bc701-cristians-projects-9dedc448.vercel.app/?category_id=4
 - **[Sistema De ventas ](https://github.com/eduarxdogar/VentaV.0.0/tree/developer)**: back en C# con .Net bases de datos y dependencias con Entity framework y sql server
 - **[Sistema de reservas Hoteles](https://github.com/eduarxdogar/ReservasApiSystem)**: sistema de reservas para hoteles  
 
