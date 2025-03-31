@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Cristian Garzon
 
-### Desarrollador de Software | Entusiasta de la Tecnología | Aprendiz de por Vida
+### Desarrollador de Software Full Stack | Entusiasta de la Tecnología | Aprendiz de por Vida
 
 ---
 
