@@ -8,7 +8,8 @@
 
 ## 🔭 Proyectos Destacados
 
-- **[MiPortafolio](https://github.com/eduarxdogar/ecomerce)**: ONLINE https://mi-portafolio-d5543-cristian.web.app/
+- **[MiPortafolio](https://github.com/eduarxdogar/portafolio)**: ONLINE https://mi-portafolio-d5543-cristian.web.app/
+- **[MiGymApp](https://github.com/eduarxdogar/AppGym)**: ONLINE https://appgym-d8061.web.app/workouts
 - **[Standup Bot para Discord](https://github.com/eduarxdogar/StandupBot/tree/Crisdev)**: Aplicación para la gestión de tareas diarias.
 - **[ecomerceFront](https://github.com/eduarxdogar/ecomerce)**: ONLINE https://store-m1p0bc701-cristians-projects-9dedc448.vercel.app/?category_id=4
 - **[Sistema De ventas ](https://github.com/eduarxdogar/VentaV.0.0/tree/developer)**: back en C# con .Net bases de datos y dependencias con Entity framework y sql server
